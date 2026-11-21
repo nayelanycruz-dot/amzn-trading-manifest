@@ -1,0 +1,17 @@
+{
+  "trader_first_name": "Nayelany",
+  "trader_last_name": "Cruz",
+  "timestamp": "2026-11-21T20:48:13.136Z",
+  "trades": [
+    {
+      "ticker": "AMZN",
+      "start_date": "2026-11-20",
+      "start_price": 246.82,
+      "end_date": "2027-04-06",
+      "target_price": 257.83,
+      "doi": "Nayelany-Cruz-AMZN-46346.8745785995",
+      "initiation_status_metric": 0,
+      "pct_diff_current_vs_target": -4.2703
+    }
+  ]
+}
