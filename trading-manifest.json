@@ -1,8 +1,48 @@
 {
   "trader_first_name": "Nayelany",
   "trader_last_name": "Cruz",
-  "timestamp": "2026-11-21T20:48:13.136Z",
+  "timestamp": "2026-11-26T08:28:57.830Z",
   "trades": [
+    {
+      "ticker": "SPOT",
+      "start_date": "2026-11-20",
+      "start_price": 577.03,
+      "end_date": "2027-02-18",
+      "target_price": 715,
+      "doi": "Brian-Garcia-SPOT-46347.7281315857",
+      "initiation_status_metric": 6.8333,
+      "pct_diff_current_vs_target": -13.7818
+    },
+    {
+      "ticker": "AMZN",
+      "start_date": "2026-11-22",
+      "start_price": 240.35,
+      "end_date": "2027-02-20",
+      "target_price": 251.16,
+      "doi": "Jacqueline-Lopez- AMZN-46346.024291169",
+      "initiation_status_metric": 1.6975,
+      "pct_diff_current_vs_target": -2.6796
+    },
+    {
+      "ticker": "TTWO",
+      "start_date": "2026-11-13",
+      "start_price": 207.83,
+      "end_date": "2027-02-24",
+      "target_price": 250,
+      "doi": "CIS3100-TTWO-2026",
+      "initiation_status_metric": 9.3875,
+      "pct_diff_current_vs_target": -9.064
+    },
+    {
+      "ticker": "TPR",
+      "start_date": "2026-11-20",
+      "start_price": 123.68,
+      "end_date": "2027-02-18",
+      "target_price": 123.68,
+      "doi": "Ivana-Olivas-TPR-46346.1367077315",
+      "initiation_status_metric": 4.7865,
+      "pct_diff_current_vs_target": 4.7865
+    },
     {
       "ticker": "AMZN",
       "start_date": "2026-11-20",
@@ -10,8 +50,8 @@
       "end_date": "2027-04-06",
       "target_price": 257.83,
       "doi": "Nayelany-Cruz-AMZN-46346.8745785995",
-      "initiation_status_metric": 0,
-      "pct_diff_current_vs_target": -4.2703
+      "initiation_status_metric": -0.9683,
+      "pct_diff_current_vs_target": -5.1972
     }
   ]
 }
